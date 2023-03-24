@@ -47,7 +47,7 @@ Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí
 
 * [Bing](https://www.bing.com/#!)
     * integrovaný do postranního panelu prohlížeče Edge
-* [GPTChat](https://chat.openai.com/)
+[x] [GPTChat](https://chat.openai.com/)
 * [GPT-3](https://platform.openai.com/playground)
 * [Anyword](https://anyword.com/social-post-generator/)
 
