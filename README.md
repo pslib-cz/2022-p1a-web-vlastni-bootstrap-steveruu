@@ -12,21 +12,21 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 * [ ] Alespoň 3 vzájemně prolinkované stránky nebo jedna singlepage s odkazy na své sekce
 * [ ] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
 * [ ] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
-* [ ] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
+* [x] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
 * [ ] Soubory webu jsou členěny do složek (např. ``/assets/images``, ``/assets/icons``)
-* [ ] Soubory webu se nacházejí v GitHubovém repozitáři
-* [ ] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
+* [x] Soubory webu se nacházejí v GitHubovém repozitáři
+* [x] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
 * [ ] Web je dostupný přes [Github Pages](https://pages.github.com/) (do README.md přidejte odkaz)
 * [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB
 * [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru
 
 ### Použité komponenty
 
-* [ ] šířka stránky je omezena přes ``conteiner``
-* [ ] jedna galerie s obrázky (např. pomocí prvků typu Card)
+* [x] šířka stránky je omezena přes ``conteiner``
+* [x] jedna galerie s obrázky (např. pomocí prvků typu Card)
 * [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu
 * [ ] použitý carousel nebo hero s obrázkem
-* [ ] vytvořený formulář (kontaktní, registrační)
+* [ ] vytvořený formulář (kontaktní, registrační) <-- udělám v /kontakt/
 * [ ] sticky záhlaví stránky s menu
 * [ ] zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
 * [ ] modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
