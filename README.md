@@ -13,7 +13,7 @@ Odkaz: https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-steveruu/
 * [x] Alespoň 3 vzájemně prolinkované stránky nebo jedna singlepage s odkazy na své sekce
 * [ ] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
 * [ ] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
-* [x] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
+* [] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
 * [x] Soubory webu jsou členěny do složek (např. ``/assets/images``, ``/assets/icons``)
 * [x] Soubory webu se nacházejí v GitHubovém repozitáři
 * [x] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
@@ -25,7 +25,7 @@ Odkaz: https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-steveruu/
 
 * [x] šířka stránky je omezena přes ``container``
 * [x] jedna galerie s obrázky (např. pomocí prvků typu Card)
-* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu
+* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu <--- ????????
 * [x] použitý carousel nebo hero s obrázkem
 * [ ] vytvořený formulář (kontaktní, registrační) <-- udělám v /kontakt/
 * [x] sticky záhlaví stránky s menu
