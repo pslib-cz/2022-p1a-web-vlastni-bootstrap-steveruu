@@ -16,6 +16,11 @@
                 <nav class="navbar navbar-expand-lg">
                     <div class="container-fluid">
                         <a class="navbar-brand fw-bolder" href="../">Budeme pít a řídit</a>
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+                            aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
                         <div class="collapse navbar-collapse" id="navbarNav">
                             <ul class="navbar-nav">
                                 <li class="nav-item">
@@ -44,22 +49,27 @@
             <form onsubmit="" id="form">
                 <div class="mb-3">
                     <label for="exampleFormControlInput1" class="form-label mt-2"><strong>Jméno</strong></label>
-                    <input type="text" class="form-control" id="exampleFormControlInput1"
-                        placeholder="Jan Novák" autocomplete="on">
+                    <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Jan Novák"
+                        autocomplete="on">
                 </div>
                 <div class="mb-3">
-                    <label for="exampleFormControlInput1" class="form-label mt-2"><strong>Emailová adresa</strong></label>
+                    <label for="exampleFormControlInput1" class="form-label mt-2"><strong>Emailová
+                            adresa</strong></label>
                     <input type="email" class="form-control" id="exampleFormControlInput2"
                         placeholder="jmeno@domena.com" autocomplete="on">
                 </div>
                 <div class="mb-3">
                     <label for="exampleFormControlTextarea1" class="form-label"><strong>Vaše zpráva</strong></label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Vaše zpráva" autocomplete="username"></textarea>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" placeholder="Vaše zpráva"
+                        autocomplete="username"></textarea>
                 </div>
                 <button type="submit" class="btn btn-primary" id="btn">Odeslat</button>
             </form>
         </div>
     </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N"
+        crossorigin="anonymous"></script>
 </body>
 
 </html>
