@@ -12,25 +12,24 @@ Odkaz: https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-steveruu/
 
 * [x] Alespoň 3 vzájemně prolinkované stránky nebo jedna singlepage s odkazy na své sekce
 * [x] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
-* [ ] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
+* [ ] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``. <-- article;section asi dodělat?
 * [x] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
 * [x] Soubory webu jsou členěny do složek (např. ``/assets/images``, ``/assets/icons``)
 * [x] Soubory webu se nacházejí v GitHubovém repozitáři
 * [x] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
 * [x] Web je dostupný přes [Github Pages](https://pages.github.com/) (do README.md přidejte odkaz)
 * [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB <-- co to znamená?
-* [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru
-
+* [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru <-- nekontroloval jsem + zavádějící
 ### Použité komponenty
 
 * [x] šířka stránky je omezena přes ``container``
 * [x] jedna galerie s obrázky (např. pomocí prvků typu Card)
-* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu <--- ????????
+* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu <--- ???????? doted nevim jak se to dela
 * [x] použitý carousel nebo hero s obrázkem
-* [x] vytvořený formulář (kontaktní, registrační) <-- udělám v /kontakt/
+* [x] vytvořený formulář (kontaktní, registrační)
 * [x] sticky záhlaví stránky s menu
-* [ ] zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced)
-* [ ] modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ )
+* [ ] zápatí stránky (např. https://mdbootstrap.com/docs/jquery/navigation/footer/#advanced) <-- hard
+* [ ] modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ ) <-- proč? 
 
 ### Estetická kritéria
 * [x] stránka je hezká
@@ -42,7 +41,7 @@ Odkaz: https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-steveruu/
 
 ## Vlastní obsah
 
-Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí vhodných modelů a nástrjů umělých inteligencí. Je vhodné si tuto dovednost osvojit co nejdříve, proto využijte toto zadání k vyzkoušení následujících technologií:
+Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí vhodných modelů a nástrojů umělých inteligencí. Je vhodné si tuto dovednost osvojit co nejdříve, proto využijte toto zadání k vyzkoušení následujících technologií:
 
 ### Generování textu (LLM)
 
