@@ -18,8 +18,8 @@ Odkaz: https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-steveruu/
 * [x] Soubory webu se nacházejí v GitHubovém repozitáři
 * [x] V repozitáři se soubory ocitly pomocí commitů a pushů a těch je více než 3, rozprostřených do celé doby vypracovávání zadání
 * [x] Web je dostupný přes [Github Pages](https://pages.github.com/) (do README.md přidejte odkaz)
-* [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB <-- co to znamená?
-* [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru <-- nekontroloval jsem + zavádějící
+* [ ] Celková načítaná velikost jednotlivých stránek nepřesahuje jednotky MiB <-- coze
+* [ ] Obrázky mají rozumnou velikost pro mobilní telefon - tj. odpovídají skutečné velikost vymezeného prostoru <-- obrazky jo, karty se rozpadaji
 ### Použité komponenty
 
 * [x] šířka stránky je omezena přes ``container``
