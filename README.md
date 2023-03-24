@@ -32,7 +32,7 @@ Odkaz: https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-steveruu/
 * [ ] modifikovaný styl Bootstrapu (https://bootstrap.build/themes, https://bootstrap.build/app , https://mdbootstrap.com/docs/jquery/getting-started/installation-guide/ ) <-- proč? 
 
 ### Estetická kritéria
-* [x] stránka je hezká
+* [x] stránka je hezká <-- krása je subjektivní
 * [x] prvky na sobě nejsou nalepené a je mezi nimi rozumná mezera
 
 ## Reference
