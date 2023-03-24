@@ -9,7 +9,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 
 ### HTML a struktura souborů
 
-* [ ] Alespoň 3 vzájemně prolinkované stránky nebo jedna singlepage s odkazy na své sekce
+* [x] Alespoň 3 vzájemně prolinkované stránky nebo jedna singlepage s odkazy na své sekce
 * [ ] HTML kód je validní bez chyb ve [validátoru](https://validator.w3.org/)
 * [ ] HTML značky dávají smysl, kód obsahuje ``<article>``, ``<section>``, ``<header>``, ``<nav>``.
 * [x] Navigace mezi stránkami je tvořená přes ``<nav><ul><li><a>`` a je funkční i po zkopírování na lokální disk
@@ -22,7 +22,7 @@ Editací tohoto souboru a náhradou ``[ ]`` za ``[x]`` můžete evidovat, které
 
 ### Použité komponenty
 
-* [x] šířka stránky je omezena přes ``conteiner``
+* [x] šířka stránky je omezena přes ``container``
 * [x] jedna galerie s obrázky (např. pomocí prvků typu Card)
 * [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu
 * [ ] použitý carousel nebo hero s obrázkem
