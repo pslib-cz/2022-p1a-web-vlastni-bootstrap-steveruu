@@ -61,6 +61,8 @@ Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí
     * vlastní instalace [Olivio Sarikas](https://www.youtube.com/watch?v=3cvP7yJotUM)
     * ve škole v Multimediální laboratoři
  * [ThisPersonDoesNotExist](https://thispersondoesnotexist.xyz/)
- * [DALL-E playground](https://playgroundai.com/)
+ * [DALL-E](https://playgroundai.com/)
      * [Craiyon](https://www.craiyon.com/)
+     * [DALL.E 2](https://www.craiyon.com/)
+     * [Bing Image Creator](https://www.bing.com/create/)
  * [BlueWillow](https://www.bluewillow.ai/) - přes Discord - neomezené demo
