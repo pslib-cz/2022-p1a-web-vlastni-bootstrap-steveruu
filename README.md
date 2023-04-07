@@ -47,7 +47,7 @@ Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí
 
 * [Bing](https://www.bing.com/#!)
     * integrovaný do postranního panelu prohlížeče Edge
-* [x] [GPTChat](https://chat.openai.com/)
+* [x] [ChatGPT](https://chat.openai.com/)
 * [GPT-3](https://platform.openai.com/playground)
 * [Anyword](https://anyword.com/social-post-generator/)
 
@@ -58,11 +58,11 @@ Jednou ze zajímavých možností dnešní doby je vygenerování obsahu pomocí
     * [DreamStudio](https://beta.dreamstudio.ai/dream)
     * [Mage](https://www.mage.space/)
     * [NightCafe](https://creator.nightcafe.studio/stable-diffusion-image-generator)
-    * vlastní instalace [Olivio Sarikas](https://www.youtube.com/watch?v=3cvP7yJotUM)
+    * [x] vlastní instalace [Olivio Sarikas](https://www.youtube.com/watch?v=3cvP7yJotUM)
     * ve škole v Multimediální laboratoři
  * [ThisPersonDoesNotExist](https://thispersondoesnotexist.xyz/)
  * [DALL-E](https://playgroundai.com/)
      * [Craiyon](https://www.craiyon.com/)
      * [DALL.E 2](https://www.craiyon.com/)
-     * [Bing Image Creator](https://www.bing.com/create/)
+     * [x] [Bing Image Creator](https://www.bing.com/create/)
  * [BlueWillow](https://www.bluewillow.ai/) - přes Discord - neomezené demo
