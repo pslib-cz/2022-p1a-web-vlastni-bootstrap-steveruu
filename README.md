@@ -24,7 +24,7 @@ Odkaz: https://pslib-cz.github.io/2022-p1a-web-vlastni-bootstrap-steveruu/
 
 * [x] šířka stránky je omezena přes ``container``
 * [x] jedna galerie s obrázky (např. pomocí prvků typu Card)
-* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu <--- ???????? doted nevim jak se to dela
+* [ ] všechny stránky budou fungovat na třech rozlišeních: telefonu (sm), tabletu (md nebo lg) a desktopu <--- ? tf
 * [x] použitý carousel nebo hero s obrázkem
 * [x] vytvořený formulář (kontaktní, registrační)
 * [x] sticky záhlaví stránky s menu
